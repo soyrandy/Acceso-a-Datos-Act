@@ -5,5 +5,7 @@ public class ActividadUno {
 
     }
 
-    public
+    public Empleado[] parsearEmpleados(String rutaFichero){
+
+    }
 }
